@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,27 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+body {
+  background: url("./images/technology.jpg") no-repeat center center fixed;
+  -webkit-background: cover;
+  -moz-background: cover;
+  -o-background-size: cover;
+
+  /* background-size: 100% 100%; */
+  background-size: cover;
+  /* backdrop-filter: blur(2px);
+  backdrop-filter: brightness(60%); */
+
+  /* overflow-x: hidden;
+  overflow-y: hidden; */
+}
+.bg-image {
+  /* filter: blur(33px); */
+  /* The image used */
+  /* background-image: url("https://cdn.pixabay.com/photo/2016/10/06/14/52/raspberry-pi-1719220_960_720.jpg")
+    no-repeat center center fixed; 
+
+ height: 100%; */
 }
